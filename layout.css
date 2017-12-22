@@ -5,3 +5,10 @@ table,th,tr{
 	width: 50%;
 	margin-left: 20%;
 }
+td{
+	padding: 0.5%;
+	border: 1px solid black;
+}
+button{
+	margin: 22px;
+}
